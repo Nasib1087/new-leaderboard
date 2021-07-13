@@ -136,6 +136,7 @@ hr{
     width: 224px;
     margin-top: 20px;
     align-items: center;
+   font-size: 14px;
 }
 
 .course-rating .star  i:nth-child(1){
